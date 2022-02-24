@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center">Hi there 👋, I'm Anand Gupta</h1>
+
 <h3 align="center"> A Boy Who is Unpredictable </h3>
 <p align="left"><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04"  </p>(https://github.com//DevilANANDGupta)
  
@@ -43,4 +43,28 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilanandgupta&" alt="devilanandgupta" /></p>
 
     
-    
+    {
+  "name": "awesome-github-profiles",
+  "version": "1.0.0",
+  "description": "![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx prettier --check .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieHubCommunity/awesome-github-profiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieHubCommunity/awesome-github-profiles/issues"
+  },
+  "homepage": "https://github.com/EddieHubCommunity/awesome-github-profiles#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
