@@ -42,29 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilanandgupta&" alt="devilanandgupta" /></p>
 
-    
-    {
-  "name": "awesome-github-profiles",
-  "version": "1.0.0",
-  "description": "![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)",
-  "main": "index.js",
-  "scripts": {
-    "lint": "npx prettier --check .",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "npx prettier --write ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EddieHubCommunity/awesome-github-profiles.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EddieHubCommunity/awesome-github-profiles/issues"
-  },
-  "homepage": "https://github.com/EddieHubCommunity/awesome-github-profiles#readme",
-  "devDependencies": {
-    "prettier": "2.3.2"
-  }
-}
+   
