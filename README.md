@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <br> I am persuing my B.tech degree with Artificial intelligence </p>
      <a href="https://www.instagram.com/thesoulofking/"><img src="https://pngtree.com/freepng/instagram-icon-instagram-logo_3584853.html" height="100" weidth="400" alt="Some error occured"></a>
     <a href="https://www.linkedin.com/in/anand-gupta-2b2133178/"><img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon-300x265.png" height="75" weidth="350" alt="we found some error"></a>
-    <a href="https://github.com/DEVILANANDGupta"><img src="github-logo-icon-16153-Windows.ico" height="50" weidth="300" alt="Some error occured"></a>
+    
     <a href="https://twitter.com/anandsi94921525/"><img src="https://freepngimg.com/thumb/twitter/4-2-twitter-png-hd-thumb.png" height="35" weidth="250" alt="Some error occured"></a>
     
     
