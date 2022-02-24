@@ -1,6 +1,8 @@
 ### 
 
-<h1 align="center">Hi there 👋, I'm Anand Gupta</h1
+<h1 align="center">Hi there 👋, I'm Anand Gupta</h1>
+<h3 align="center"> A Boy Who is Unpredictable </h3>
+<p align="left"><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04" </p>
 
 Here are some ideas to get you started:
 
