@@ -43,5 +43,5 @@
 
 
 ![snake gif](https://github.com/DevilANANDGupta/DevilANANDGupta/blob/output/github-contribution-grid-snake.gif)
-  <h5> img src="https://ibb.co/g3SCmkp" </h5>
+
  
