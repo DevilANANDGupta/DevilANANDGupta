@@ -7,7 +7,7 @@
  
  <h1 align="center">Hi 👋, I'm Anand Gupta</h1>
 <h3 align="center">Student of B.tech cse(ai) at Niet</h3>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =" https://github.com/DevilANANDGupta/DevilANANDGupta/edit/main/README.md")
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =" https://github.com/DevilANANDGupta/DevilANANDGupta/README.md")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
