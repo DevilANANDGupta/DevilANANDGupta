@@ -47,4 +47,4 @@
 
 ![snake gif](https://github.com/DevilANANDGupta/DevilANANDGupta/blob/output/github-contribution-grid-snake.gif)
 
- 
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevilANANDGupta/READ.me)
