@@ -46,5 +46,6 @@
 
 
 ![snake gif](https://github.com/DevilANANDGupta/DevilANANDGupta/blob/output/github-contribution-grid-snake.gif)
+<p align="left"> <a href="#" target="blank"><img src=https://skyline.github.com/DevilANANDGupta/2021" alt="" /></a> </p>
 
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/DevilANANDGupta/READ.me)
+ 
