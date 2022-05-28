@@ -1,12 +1,9 @@
-### 
 
+<<h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence at Niet</h3>
+<p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04" height="150" width="400" <h3 align="center" >Hi 👋, I'm Anand Gupta </h3></p>
  
-****
-<h3 align="center"> A Boy Who is Unpredictable </h3>
-<p align="left"><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04"  </p>(https://github.com//DevilANANDGupta)
  
- <h1 align="center">Hi 👋, I'm Anand Gupta</h1>
-<h3 align="center">Student of B.tech cse(ai) at Niet</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
