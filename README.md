@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilanandgupta" alt="devilanandgupta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anandsi9492152" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi9492152?logo=twitter&style=for-the-badge" alt="anandsi9492152" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p>
 
 - 🔭 I’m currently working on **Complete industry automation**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anandsi9492152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsi9492152" height="30" width="40" /></a>
+<a href="https://twitter.com/anandsi94921525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsi94921525" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anand-gupta-2b2133178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-gupta-2b2133178" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anandgu_p_t_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesoulofking" height="30" width="40" /></a>
 </p>
