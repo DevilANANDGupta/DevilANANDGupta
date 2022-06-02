@@ -12,11 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p>
 
-- 🔭 I’m currently working on **Complete industry automation**
-
-- 🌱 I’m currently Working on **physical artificial intelligence.**
-
-- 👯 I’m looking to collaborate on **AI**
+-
 
 - 📫 How to reach me **ag075261@gmail.com**
 
