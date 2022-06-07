@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devilanandgupta&show_icons=true&locale=en" alt="devilanandgupta" background_color="dark"/></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=devilanandgupta&show_icons=true&locale=en" alt="devilanandgupta" background_color="dark"/></p>
 
 
 ![snake gif](https://github.com/DevilANANDGupta/DevilANANDGupta/blob/output/github-contribution-grid-snake.gif)
