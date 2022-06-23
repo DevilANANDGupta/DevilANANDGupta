@@ -1,7 +1,6 @@
 <h3 align="center" >Hi 👋, I'm Anand Gupta </h3>
 <<h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3>
 <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04" height="150" width="400"   </p>
- 
 
  
  
