@@ -31,12 +31,12 @@
 <p><a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p> -->
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178) 
-# 📊 GitHub Stats:
+# 📊Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevilANANDGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevilANANDGupta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilANANDGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
