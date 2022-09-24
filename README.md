@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
  
  ## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178)
  <p align="left">
 <a href="https://twitter.com/anandsi94921525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsi94921525" height="30" width="40" /></a>
 
@@ -35,7 +36,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p> -->
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178)
+ 
 # 📊Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevilANANDGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevilANANDGupta&theme=dark&hide_border=false)<br/>
