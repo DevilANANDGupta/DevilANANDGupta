@@ -1,15 +1,15 @@
 Skip to content
-DEV Community
+DEV Community 👩‍💻👨‍💻
 Search...
 
 Log in
 Create account
 
-46
-
-8
-
-43
+65
+Like
+Unicorn
+61
+Save
 
 Cover image for How to enable GitHub Actions on your Profile README for a snake-eating contribution graph 🐍
 Michelle Mannering
@@ -171,7 +171,7 @@ Workflow
 
 Click "Run Workflow" and watch your workflow run. You can even expand your workflow and see what's happening in real time.
 
-Running Actions
+GIFRunning Actions
 
 Once your workflow has finished running, you should have received a green ✅ "build" checkmark. If so, this means your Action is working nicely. If not, you'll have to go through the code and see where the errors are. The "build" status should give you some indication of where your errors lie. You can also compare it with the yaml file on my GitHub Profile README.
 
@@ -179,7 +179,7 @@ Build green
 
 If you have the green "build" ✅ then you should be good to go. Head back to your repo's "Code" directory, and change your branch to "output". Here you'll find the two versions of your contribution graph with the snake eating it: a *.gif and a *.svg. The good thing about these files is the file is rewritten over itself every time the Action runs. Thus, your contribution graph will always be up to date.
 
-CodeOutput
+GIFCodeOutput
 
 Step 4. Adding a contribution-eating snake to your profile
 Now the final set is to add this to your profile. Grab the file location of your *.gif. It should be something like:
@@ -192,7 +192,7 @@ Add this to your profile by copying the file location onto a new line in your ma
 
 Now you should have a really cool looking snake eating your contributions!
 
-SnakeEating
+GIFSnakeEating
 Hopefully this guide was helpful for you and gives you a good base to start building and adding more Actions on your profile. What have you been adding to your GitHub Profile README? Other there other cool Actions I should be looking at?
 
 Git Good (9 Part Series)
@@ -206,10 +206,24 @@ How to create and pin a gist on GitHub
 How to use GitHub Pages to host your website, even with multiple repos
 9
 How to create a Profile README for your Organisation
-Discussion (16)
+Top comments (21)
+
 Subscribe
 pic
 Add to the discussion
+ 
+kushaltanna24 profile image
+KushalTanna24
+•
+Jun 3
+
+Work fine.! Here is mine - KushalTanna24
+
+
+2
+ likes
+Like
+Reply
  
 msoftware profile image
 Michael jentsch
@@ -222,6 +236,7 @@ Here's mine - github.com/msoftware
 
 2
  likes
+Like
 Reply
  
 gustavohgmartins profile image
@@ -245,6 +260,7 @@ I didn't change the background colour. It's a .png/.svg image, meaning the backg
 
 1
  like
+Like
 Thread
 gustavohgmartins profile image
 Gustavo Martins
@@ -256,6 +272,7 @@ Thank you! actually I was using the .gif version, so I switched to the .svg one 
 
 2
  likes
+Like
 Thread
 mishmanners profile image
 Michelle Mannering 
@@ -267,6 +284,7 @@ Awesome! Glad to be of help 😄
 
 1
  like
+Like
 Reply
  
 bpolaswar profile image
@@ -280,35 +298,7 @@ Thanks.
 
 2
  likes
-Reply
- 
-laurasiiia profile image
-Laura
-•
-Jan 2 • Edited on Jan 2
-
-Hi, i did everything right and even got the "build" status. But no output branch was created... why is that? Can someone help me? github.com/laurasiiia
-
-
-1
- like
-Reply
- 
-mishmanners profile image
-Michelle Mannering 
-•
-Jan 4
-
-I assume you're working off this folder: github.com/laurasiiia/laurasiiia/b...
-
-Since you've got a newer repo (mine account was set up a number of years ago), you have the default branch set to "main". You might need to change the code to be "main" instead of "master".
-
-I created a PR for you: github.com/laurasiiia/laurasiiia/p...
-(run it and see if that works)... it might not but worth a shot. Feel free to jump in other people 😄
-
-
-1
- like
+Like
 Reply
  
 adityamangal1 profile image
@@ -321,24 +311,26 @@ Awesome Tutorial! 🐍
 
 1
  like
+Like
 Reply
  
 viveeeeeek profile image
 VivekS.
 •
-Oct 2 '21
+Oct 3 '21
 
 Awesome!
 
 
 1
  like
+Like
 Reply
  
 zieldecastro profile image
 Josiel de Castro Goudinho
 •
-Sep 14 '21 • Edited on Sep 14
+Sep 15 '21 • Edited on Sep 15
 
 It does not work for me. Can someone help me?
 github.com/zieldecastro
@@ -347,6 +339,21 @@ instagram.com/zieldecastro/
 
 1
  like
+Like
+Reply
+ 
+wkylin profile image
+wkylin.w
+•
+May 1
+
+Here's mine:
+github.com/wkylin
+
+
+1
+ like
+Like
 Reply
  
 shasank27 profile image
@@ -361,6 +368,7 @@ github.com/shasank27/shasank27
 
 1
  like
+Like
 Reply
  
 mishmanners profile image
@@ -379,6 +387,74 @@ Hope that helps.
 
 1
  like
+Like
+Reply
+ 
+laurasiiia profile image
+Laura
+•
+Jan 3 • Edited on Jan 3
+
+Hi, i did everything right and even got the "build" status. But no output branch was created... why is that? Can someone help me? github.com/laurasiiia
+
+
+1
+ like
+Like
+Reply
+ 
+mishmanners profile image
+Michelle Mannering 
+•
+Jan 4
+
+I assume you're working off this folder: github.com/laurasiiia/laurasiiia/b...
+
+Since you've got a newer repo (mine account was set up a number of years ago), you have the default branch set to "main". You might need to change the code to be "main" instead of "master".
+
+I created a PR for you: github.com/laurasiiia/laurasiiia/p...
+(run it and see if that works)... it might not but worth a shot. Feel free to jump in other people 😄
+
+
+1
+ like
+Like
+Reply
+ 
+phuocantd profile image
+An Nguyễn Phước
+•
+Jun 1
+
+How to auto build workflow everyday
+
+
+1
+ like
+Like
+Reply
+ 
+tahmidabir profile image
+Tahmid Abir
+•
+Jun 19
+
+Do we need to run the action everyday after commit? or it will auto load,
+Btw I have made mine, thanks for the detailed writings, here's mine- github.com/tahmidabir
+
+
+Like
+Reply
+ 
+adityathakekar profile image
+Aditya Thakekar
+•
+Dec 24 '21
+
+works great. thanks a ton.
+
+
+Like
 Reply
  
 ichchhagupta profile image
@@ -395,42 +471,50 @@ Reply
 mishmanners profile image
 Michelle Mannering 
 •
-Dec 15 '21
+Dec 16 '21
 
 Actions is a feature you'll need to enable for your repo. When you go to your repo, you'll notice a tab called "Actions" that should be next to the "Pull requests" tab. Click the "Actions" tab then you can setup Actions from there.
 
 
 1
  like
+Like
 Reply
  
-adityathakekar profile image
-Aditya Thakekar
+smartmayukh profile image
+Mayukhmali Das
 •
-Dec 24 '21
+Jul 1
 
-works great. thanks a ton.
+Works great !!!!!!!! Here's mine
+
+github.com/Smartmayukh
 
 
+1
+ like
 Like
 Reply
 Code of Conduct • Report abuse
+🌚 Browsing with dark mode makes you a better developer.
+It's a scientific fact.
+
 Read next
-lakshh07 profile image
-How to get started with Web 3.0?
-Lakshay Maini - Feb 15
+mathilde_llg profile image
+Ebook - Scaling functional test automation for happy teams
+Mathilde Lelong - Sep 20
 
-tylim88 profile image
-Filter Available NPM Name and Get Your Dependency Count Badge
-tylim - Feb 15
+aradwan20 profile image
+React Conditional Rendering
+Ahmed Radwan - Sep 21
 
-kerndesigns profile image
-How to Create a GitHub Repository
-Kern Designs - Feb 17
+cavein254 profile image
+Finding the Minimum and Maximum Values of an Array in JavaScript
+John Muthua - Sep 23
 
-saritchaethudis profile image
-Make Your Github Profile Stand Out
-Sarit Chaet Hudis - Feb 19
+karanpratapsingh profile image
+System Design: Disaster recovery
+Karan Pratap Singh - Sep 19
 
 
 Michelle Mannering
@@ -445,12 +529,12 @@ Developer Advocate at GitHub
 JOINED
 May 29, 2020
 More from Michelle Mannering
-How to create a healthy and sustainable open source community
-#github #opensource #tutorial
-Shipping a new open source project? Have you thought about release naming?
-#tutorial #discuss #release #programming
-Customise GitHub Mobile to work better for you: Shortcuts and more
-#productivity #tutorial #github #mobile
+GitHub's non-code features
+#github #beginners #productivity #opensource
+Top tips for being a good online community member
+#opensource #tutorial #beginners #devops
+Understand your code using GitHub Copilot
+#github #ai #productivity #tutorial
 
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
@@ -483,7 +567,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: DevilANANDGupta
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -506,8 +590,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-DEV Community — A constructive and inclusive social network for software developers. With you every step of your journey.
+DEV Community 👩‍💻👨‍💻 — A constructive and inclusive social network for software developers. With you every step of your journey.
 
 Built on Forem — the open source software that powers DEV and other inclusive communities.
 
-Made with love and Ruby on Rails. DEV Community © 2016 - 2022.
+Made with love and Ruby on Rails. DEV Community 👩‍💻👨‍💻 © 2016 - 2022.
