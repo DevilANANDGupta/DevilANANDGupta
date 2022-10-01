@@ -3,7 +3,8 @@
 <h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3>
 <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb04" height="150" width="400"  </p>
 
-<iframe src="https://gifer.com/embed/QWc9" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+ <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)" </p>
+
 
 
 
