@@ -8,7 +8,6 @@
 
 
 
-
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
@@ -50,7 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilANANDGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 
 
 ![snake gif](https://github.com/DevilANANDGupta/DevilANANDGupta/blob/output/github-contribution-grid-snake.gif)
