@@ -45,8 +45,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilANANDGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<h3 align="center" >img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="50" width="50"</a></h3>
 
- <p><img align=center" scr=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif/></p>
+<!--  <p><img align=center" scr=/></p> -->
  [![@devilanandgupta's Holopin board](https://holopin.me/devilanandgupta)](https://holopin.io/@devilanandgupta)
 
 
