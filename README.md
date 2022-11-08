@@ -46,7 +46,7 @@
 
 ---
 
- 
+ <p><img align=center" scr=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif/></p>
  [![@devilanandgupta's Holopin board](https://holopin.me/devilanandgupta)](https://holopin.io/@devilanandgupta)
 
 
