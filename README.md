@@ -1,7 +1,7 @@
 <h3 align="center" >Hi 👋, I'm Anand Gupta  <img src = "https://camo.githubusercontent.com/ace9043b10b8ee4638e03d349867ce81f3084e8cefaddbd03a85e94454cc63a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316b544b4e4f4b4a4b5a4e4e4961616258422f67697068792e676966" height="50" width="50"</a></h3>
 
 <h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3>
-<p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=400 width=600  </p>
+<p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=400 width=400  </p>
 
 
 
