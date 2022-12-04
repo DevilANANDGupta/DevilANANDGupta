@@ -50,6 +50,3 @@
 <!-- ---
 p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" heigh=500 width=500  </p> -->
  [![@devilanandgupta's Holopin board](https://holopin.me/devilanandgupta)](https://holopin.io/@devilanandgupta)
-
-
- 
