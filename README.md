@@ -1,25 +1,12 @@
 <h3 align="center" >Hi 👋, I'm Anand Gupta  <img src = "https://camo.githubusercontent.com/ace9043b10b8ee4638e03d349867ce81f3084e8cefaddbd03a85e94454cc63a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316b544b4e4f4b4a4b5a4e4e4961616258422f67697068792e676966" height="50" width="50"</a></h3>
 <h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3>
 <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=200 width=150 <img src=")" </p>
-<!-- <div class="row"><div class="column"><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif" alt="Snow" style="width:100%"></div>
-<div class="column" styel="column:float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" alt="Forest" style="width:100%">
-  </div> -->
 
 
 
  <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)"  </p>
-<!-- <p a><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif"  </p> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
@@ -45,7 +32,7 @@
 <p align="center"><img src = "https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="150" width="150"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/1f8fcf4054cb31e26e20b3ef09c08be19a393aac84020d0b63775e55601c38d4/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966"   </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9e245893108b5ca27e7ac3d4a802d513f657b32aa7b5765bd92df7fb55d0ed54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://github.com/devilanandgupta" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/800291c600c833067b8b56b8c8d6f05960375e30e2723e10da8f14a88ae3771d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d69636f6e2e737667" alt="tensorflow" width="40" height="40"/> </a>
+<p align="center">   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9e245893108b5ca27e7ac3d4a802d513f657b32aa7b5765bd92df7fb55d0ed54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://github.com/devilanandgupta" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/800291c600c833067b8b56b8c8d6f05960375e30e2723e10da8f14a88ae3771d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d69636f6e2e737667" alt="tensorflow" width="40" height="40"/> </a>
 </p>  
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilanandgupta" alt="devilanandgupta" height = "400" width = "400"</a> </p> -->
 
