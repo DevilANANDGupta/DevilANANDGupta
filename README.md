@@ -5,7 +5,7 @@
 
 
  <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)"  </p>
- 
+<p a><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif"  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
@@ -59,7 +59,8 @@ p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="htt
  
 <!--  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"   </p> -->
   
- [![](https://gtce.itsvg.in/api?username=anandsi94921525)](https://github.com/VishwaGauravIn/github-twitter-card-embed) <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif" heigh=400 width=600  </p>
+ [![](https://gtce.itsvg.in/api?username=anandsi94921525)](https://github.com/VishwaGauravIn/github-twitter-card-embed) 
+
   
   
   
