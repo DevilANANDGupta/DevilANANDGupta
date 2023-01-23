@@ -61,6 +61,8 @@ p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="htt
 <!--  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"   </p> -->
   
  [![](https://gtce.itsvg.in/api?username=anandsi94921525)](https://github.com/VishwaGauravIn/github-twitter-card-embed) 
+ 
+  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://github.com/DevilANANDGupta/DevilANANDGupta/blob/main/DevilANANDGupta-2022.stl"   </p>
 
   
   
