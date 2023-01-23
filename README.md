@@ -58,4 +58,6 @@ p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="htt
  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/43cb03321785d554cfa9cb419dbd1725d6f78a547fa1280c1727209f0b4f0c4d/68747470733a2f2f632e74656e6f722e636f6d2f33646762634d74364b783441414141692f7370696465722d696e736563742e676966"   </p>
  
  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"   </p>
+  
+ [![](https://gtce.itsvg.in/api?username=anandsi94921525)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  
