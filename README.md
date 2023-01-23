@@ -64,4 +64,6 @@ p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="htt
   
   
   
-https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif
+
+ <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif" heigh=200 width=150  </p>
+  
