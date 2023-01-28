@@ -40,7 +40,7 @@
 <p><a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
 <br><br>
 <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966"   </p>
- <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg"   </p>
+<!--  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg"   </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
 
