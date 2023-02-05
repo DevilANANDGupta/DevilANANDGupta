@@ -12,8 +12,6 @@
 <p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p>
 
 - Hello Nerds! I am Machine Learning Developer With self passionate person . First winner In PDS|Hackathon|.Selected In Smart India Hackathon || An Innovation Idea selected In AvhiskarBhoomi Yojna which is for Innovating Cell Department. 
--
-
 - 📫 How to reach me **ag075261@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
