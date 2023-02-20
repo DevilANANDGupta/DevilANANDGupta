@@ -8,10 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p> -->
-
 -Machine Learning Developer.First winner In PDS|Hackathon|.Selected In Smart India Hackathon || An Innovation Idea selected In AvhiskarBhoomi Yojna which is for Innovating Cell Department. 
 - 📫 How to reach me **ag075261@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
  ## 🌐 Socials:
