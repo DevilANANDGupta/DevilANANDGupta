@@ -10,7 +10,6 @@
 -Machine Learning Developer.First winner In PDS|Hackathon|.Selected In Smart India Hackathon || An Innovation Idea selected In AvhiskarBhoomi Yojna which is for Innovating Cell Department. 
 - 📫 How to reach me **ag075261@gmail.com**
 <h3 align="left">Connect with me:</h3>
-
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178)
  <p align="left">
