@@ -1,5 +1,5 @@
-<h3 align="center" ><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=50 width=80>Hi 👋, I'm Anand Gupta  <img src = "https://camo.githubusercontent.com/ace9043b10b8ee4638e03d349867ce81f3084e8cefaddbd03a85e94454cc63a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316b544b4e4f4b4a4b5a4e4e4961616258422f67697068792e676966" height="50" width="50"</a></h3>
-<h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3>
+<h3 align="center" ><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=50 width=80>👋<img src = "https://camo.githubusercontent.com/ace9043b10b8ee4638e03d349867ce81f3084e8cefaddbd03a85e94454cc63a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316b544b4e4f4b4a4b5a4e4e4961616258422f67697068792e676966" height="50" width="50"</a></h3>
+<!-- <h3 align="center">Pursuing B.tech In Specialization with Artificial Intelligence From Niet </h3> -->
 <!-- <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" heigh=200 width=150 <img src=")" </p> -->
 
  <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)"  </p>
@@ -7,7 +7,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p> -->
--Machine Learning Developer.First winner In PDS|Hackathon|.Selected In Smart India Hackathon || An Innovation Idea selected In AvhiskarBhoomi Yojna which is for Innovating Cell Department. 
+👋 Hello there! I'm Anand Gupta, a passionate Machine Learning Developer with a knack for innovation and problem-solving. I love exploring the realms of artificial intelligence and building intelligent systems that can make a positive impact on people's lives.
+
+🏆 Achievements:
+✨ First winner in PDS|Hackathon|: I had the incredible opportunity to participate in the PDS Hackathon and emerged as the top winner. It was an exhilarating experience where I leveraged my skills in machine learning to develop a cutting-edge solution.
+
+✨ Selected in Smart India Hackathon: I'm proud to have been selected to participate in the prestigious Smart India Hackathon, where I collaborated with talented individuals to tackle real-world challenges through innovative solutions. The experience honed my teamwork and problem-solving abilities.
+
+✨ Innovation Idea selected in AvhiskarBhoomi Yojna: I was honored to have my innovation idea recognized and selected in the AvhiskarBhoomi Yojna, a program dedicated to fostering innovation within the cell department. This recognition motivated me to continue pushing the boundaries of what's possible in the field of machine learning.
+
+🚀 Experience and Expertise:
+I have hands-on experience in developing and implementing machine learning models across various domains, including natural language processing, computer vision, and predictive analytics. I'm well-versed in popular machine learning frameworks such as TensorFlow and PyTorch, and I'm constantly staying updated with the latest advancements in the field.
+
+🎓 Education:
+I hold a B.tech in CSE(AI) from NIET. My educational background has equipped me with a strong foundation in mathematics, statistics, and programming, which I leverage to develop robust and scalable machine learning solutions.
+
+💡 Passion and Future Goals:
+I am deeply passionate about leveraging the power of machine learning to drive innovation and create transformative solutions. My ultimate goal is to contribute to cutting-edge research and develop AI-powered applications that positively impact industries and society as a whole..
+
+Looking forward to connecting and exploring the incredible possibilities of machine learning together!
+
 - 📫 How to reach me **ag075261@gmail.com**
 <h3 align="left">Connect with me:</h3>
  ## 🌐 Socials:
