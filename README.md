@@ -29,7 +29,7 @@ Looking forward to connecting and exploring the incredible possibilities of mach
 
 - 📫 How to reach me **ag075261@gmail.com**
 <h3 align="left">Connect with me:</h3>
- ## 🌐 Socials:
+ 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178)
  <p align="left">
 <!--  https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg -->
