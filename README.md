@@ -32,14 +32,10 @@ Looking forward to connecting and exploring the incredible possibilities of mach
 
 - 📫 How to reach me **ag075261@gmail.com**
 <h3 align="left">Connect with me:</h3>
- 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-gupta-2b2133178)
- <p align="left">
-<!--  https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg -->
-
+ 
 <a href="https://twitter.com/anandsi94921525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsi94921525" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/anandgu_p_t_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesoulofking" height="30" width="40" /></a>
+
 </p>
 <p align="center"><img src = "https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="100" width="100"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/1f8fcf4054cb31e26e20b3ef09c08be19a393aac84020d0b63775e55601c38d4/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966"</p>
 
