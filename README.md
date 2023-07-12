@@ -22,8 +22,6 @@ I have hands-on experience in developing and implementing machine learning model
 🎓 Education:
 I hold a B.tech in CSE(AI) from NIET. My educational background has equipped me with a strong foundation in mathematics, statistics, and programming, which I leverage to develop robust and scalable machine learning solutions.
 
-💡 Passion and Future Goals:
-I am deeply passionate about leveraging the power of machine learning to drive innovation and create transformative solutions. My ultimate goal is to contribute to cutting-edge research and develop AI-powered applications that positively impact industries and society as a whole..
 
 Looking forward to connecting and exploring the incredible possibilities of machine learning together!
 
