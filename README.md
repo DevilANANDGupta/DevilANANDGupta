@@ -39,7 +39,6 @@ Looking forward to connecting and exploring the incredible possibilities of mach
 </p>  
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilanandgupta" alt="devilanandgupta" height = "400" width = "400"</a> </p> -->
 
-
 <h3 align="left">Support: Buy me a coffee  </h3>
 <p><a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
 <br><br>
