@@ -34,24 +34,17 @@ I hold a B.tech in CSE(AI) from NIET. My educational background has equipped me 
 Looking forward to connecting and exploring the incredible possibilities of machine learning together!
 
 - 📫 How to reach me **ag075261@gmail.com**
-<h3 align="left">Connect with me:</h3>
- 
-<a href="https://twitter.com/anandsi94921525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsi94921525" height="30" width="40" /></a>
 
-
-</p>
 <p align="center"><img src = "https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="100" width="100"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/1f8fcf4054cb31e26e20b3ef09c08be19a393aac84020d0b63775e55601c38d4/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966"</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9e245893108b5ca27e7ac3d4a802d513f657b32aa7b5765bd92df7fb55d0ed54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://github.com/devilanandgupta" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="tensorflow" width="40" height="40"/> </a>
 </p>  
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilanandgupta" alt="devilanandgupta" height = "400" width = "400"</a> </p> -->
 
 <h3 align="left">Support: Buy me a coffee  </h3>
 <p><a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
-<br><br>
-<p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966"   </p>
-<!--  <p align="center"><a href="https://github.com//DevilANANDGupta"></a><img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg"   </p> -->
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
 
