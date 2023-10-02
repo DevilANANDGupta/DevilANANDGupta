@@ -40,7 +40,7 @@ Looking forward to connecting and exploring the incredible possibilities of mach
 </p>  
 
 
-<p align="left">Support:<a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/ag075261B"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" height="40" width="210"  /></a></p>
 <br>
 
 
