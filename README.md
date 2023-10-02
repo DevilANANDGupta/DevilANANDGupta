@@ -1,9 +1,8 @@
 <h3 align="center" > 
 <!-- 👋 --><img src="https://camo.githubusercontent.com/ace9043b10b8ee4638e03d349867ce81f3084e8cefaddbd03a85e94454cc63a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316b544b4e4f4b4a4b5a4e4e4961616258422f67697068792e676966" height="50"  width="50"</a></h3>
- <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)"  </p>
+<!--  <p align="left"><a href="https://github.com//DevilANANDGupta"></a><img src="[https://repository-images.githubusercontent.com/437248855/e5a20e78-4f61-4fa7-92a8-74cdc098fb0](https://i.gifer.com/QWc9.gif)"  </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilanandgupta&label=Profile%20views&color=0e75b6&style=flat" alt="devilanandgupta" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/anandsi94921525" target="blank"><img src="https://img.shields.io/twitter/follow/anandsi94921525?logo=twitter&style=for-the-badge" alt="anandsi94921525" /></a> </p> -->
 
 ║    Hello        ║  I am Anand Gupta      ║
 
