@@ -44,7 +44,7 @@ Looking forward to connecting and exploring the incredible possibilities of mach
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilanandgupta&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
+
 
 
  
