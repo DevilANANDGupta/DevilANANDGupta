@@ -4,13 +4,12 @@
 | Field                        |Expertise                                     |
 |------------------------------|----------------------------------------------|
 | Machine Learning             | Model Development                            |
-| Natural Language Processing  | NLP                                          |
 | Computer Vision              | Image Recognition, Object Detection ,segmentation |   
 | Deep Learning                | Neural Networks, Deep Neural Networks        |
 | Predictive Analytics         | Regression, Classification                   |
 | Generative Adversarial Networks (GAN) | GANs                                |
 | Frameworks                   | TensorFlow, PyTorch, Flask, FastAPI, Diffusers, Nerf |
-| Staying Updated              | Latest Advancements in ML and DL             |
+| Staying Updated              | SOTA DL             |
 
 
 🎓 Education:
